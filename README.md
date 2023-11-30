@@ -1,4 +1,7 @@
+## Flávia A. Nitta Fernandes 🐧🐦 Evolutionary genomics
 ### Hi there 👋
+I'm currently working on genetic patterns generated different natural seletive pressures, such as genetic load, genetic variability, and gene expression in King penguins.
+
 
 <!--
 **fernandes-flavia/fernandes-flavia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
